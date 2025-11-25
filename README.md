@@ -5,6 +5,16 @@ I am a YouTuber!
 
 I am a Video Editor!
 
+Cloud & DevOps:
+
+Google Cloud 
+
+Firebase 
+
+Languages:
+
+C/C++ • Dart(basics) • Python • JavaScript
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshara_karnataka) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AksharaKarnataka) 
