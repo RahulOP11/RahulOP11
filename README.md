@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning Python
+Hey! I’m Rahul — a developer who loves building, learning, and sharing knowledge.
 
 I am a YouTuber!
 
