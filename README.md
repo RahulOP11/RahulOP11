@@ -10,3 +10,8 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Flutter+Developer;YouTube+Content+Creator;Watercolor+Artist;Full+Stack+Developer;AI+%26+ML+Enthusiast)](https://git.io/typing-svg)
+
+
+┌──────────────────────────────────────────────────────────────────────┐
+<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=🚀+Flutter+Developer;🎥+YouTube+Content+Creator;🎨+Watercolor+Artist;💻+Full+Stack+Developer;🤖+AI+%26+ML+Enthusiast" /> </a>
+└──────────────────────────────────────────────────────────────────────┘
