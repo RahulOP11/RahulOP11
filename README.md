@@ -282,28 +282,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
 </td>
-<td align="center">
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-</td>
 </tr>
 
-<tr>
-<td align="center">
-
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white)
-
-</td>
-<td align="center">
-
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
