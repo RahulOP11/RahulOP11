@@ -1,8 +1,5 @@
-# Hola, I'm Rahul!
+# Hola, I'm Rahul
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&duration=1&pause=999999&color=00F7FF&width=500&lines=Hola,+I'm+Rahul!" alt="Rahul">
-</p>
 🇪🇸 Siempre aprendiendo = सदा प्रगतिः |
 
 ## 🌐 Let's Connect:
