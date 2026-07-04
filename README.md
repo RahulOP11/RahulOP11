@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-o-p) &nbsp; [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AksharaKarnataka) &nbsp; [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulgdglead@gmail.com) 
 
 ┌─────────────────────────────>
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Flutter+Developer;YouTube+Content+Creator;Watercolor+Artist;Full+Stack+Developer;AI+%26+ML+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=28&duration=2500&pause=1000&color=00F7FF&vCenter=true&width=900&lines=Flutter+Developer;YouTube+Content+Creator;Watercolor+Artist;Full+Stack+Developer;AI+%26+ML+Enthusiast)](https://git.io/typing-svg)
 └─────────────────────────────>
 
 ## 👨‍💻 About Me
