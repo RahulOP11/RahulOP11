@@ -1,4 +1,4 @@
-## Hola, I'm Rahul!
+# Hola. I'm Rahul!
 🇪🇸 Siempre aprendiendo = सदा प्रगतिः |
 
 ## 🌐 Let's Connect:
