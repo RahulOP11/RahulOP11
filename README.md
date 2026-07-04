@@ -1,26 +1,26 @@
 ## Hola, I'm Rahul!
 🇪🇸 Siempre aprendiendo = सदा प्रगतिः |
-┌────────────────────────────────────────────────────
+
+## 🌐 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-o-p) <br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AksharaKarnataka) <br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulgdglead@gmail.com) 
+┌─────────────────────────────>
 [![Typing SVG](https://readme-typing-svg.demolab.com?size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Flutter+Developer;YouTube+Content+Creator;Watercolor+Artist;Full+Stack+Developer;AI+%26+ML+Enthusiast)](https://git.io/typing-svg)
-└──────────────────────────────────────────────────────────────────────
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-o-p) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AksharaKarnataka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulgdglead@gmail.com) 
+└─────────────────────────────>
 
-<h2 align="center"> Let's Connect</h2>
+## 👨‍💻 About Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/rahul-o-p">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://youtube.com/@AksharaKarnataka">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:rahulgdglead@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+| **Category** | **Skills & Interests** |
+|--------------|------------------------|
+| 💡 **About** | Passionate developer exploring emerging technologies, building impactful projects, and sharing knowledge with the community. |
+| ☁️ **Cloud & DevOps** | Google Cloud Platform (GCP), AWS, Firebase |
+| 🎨 **Frontend** | React, JavaScript |
+| 📱 **Mobile Development** | Flutter, React Native |
+| ⚙️ **Backend & Programming** | C, C++, Python, Java, Dart, JavaScript |
+| 🤖 **AI & GenAI** | AI Agents, LLM Applications, Generative AI Solutions |
+| 🌐 **Full-Stack** | Building scalable web and mobile applications |
+| 📹 **Content Creation** | YouTuber, Content Creator, Video Editor |
+| 📈 **Marketing** | Marketing & Social Media Enthusiast |
+| 🌱 **Currently** | Always learning, building, and experimenting with new technologies |
 
 <br><br> I'm a developer passionate about  exploring emerging technologies, and sharing knowledge with the community.<br><br>* **Cloud & DevOps:** Google Cloud Platform (GCP), AWS, Firebase<br>* **Frontend:** React, JavaScript<br>* **Mobile Development:** Flutter, React Native<br>* **Backend & Programming:** C/C++, Python, Java, Dart, JavaScript<br>* **AI & GenAI:** AI Agents, LLM Applications, Generative AI Solutions<br>* **Full-Stack Development:** Building scalable web and mobile applications<br><br> Beyond Coding<br><br>* 📹 YouTuber & Content Creator<br>* 🎬 Video Editor<br>* 📈 Marketing & Social Media Enthusiast<br>* 🌱 Always learning, building, and experimenting with new technologies<br>
 
