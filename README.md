@@ -15,6 +15,7 @@
 |--------------|------------------------|
 | ☁️ **Cloud** | Google Cloud Platform (GCP), AWS, IBM Cloud, Salesforce, Vercel, Netlify |
 | 🎨 **Frontend** | JavaScript, TypeScript, React, Next.js |
+| 📊 **Data Engineering** | BigQuery, Apache Kafka, Docker, PySpark, Aapche Airflow |
 | 📱 **Mobile Development** | Flutter |
 | ⚙️ **Backend & Programming** | C++, Python, Java, Dart, Node.js |
 | 🤖 **Databases & BaaS** | Firebase, Supabase, MySQL, MongoDB, Neo4j, Redis |
